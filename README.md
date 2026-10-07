@@ -72,7 +72,7 @@ The global Cloud WAN and Enterprise SD-WAN / SASE market size is estimated at **
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Tailscale](https://github.com/tailscale/tailscale)** [![Stars](https://img.shields.io/github/stars/tailscale/tailscale?style=social&color=white)](https://github.com/tailscale/tailscale/stargazers) ⚡  
   **Zero-config mesh VPN built on WireGuard**, BSD-3-Clause licensed. **Creates secure, peer-to-peer overlay WAN networks** across multi-cloud servers, mobile devices, and local workstations. **Automatic NAT traversal (DERP)** connects machines behind strict firewalls. **Subnet routing and exit nodes** provide complete cloud WAN connectivity with MagicDNS and ACL access controls. 🛡️
@@ -109,7 +109,7 @@ Contributions are welcome! Follow these steps to submit new Cloud WAN platforms 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
@@ -135,3 +135,12 @@ If you find this Cloud WAN repository useful, please consider supporting the pro
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
 - **AWS Cloud WAN, Azure Virtual WAN, and GCP NCC are consumption-based** — costs scale with attachments, hubs, and data processing. **Plan your segmentation and routing policies carefully** to avoid unexpected egress charges. 💡
 - **Open-source WAN tools require self-hosting** — validate performance, security posture, and failover routing with a proof-of-concept before production deployment. 🌐
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-Wide-Area-Network-Cloud-WAN&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-Wide-Area-Network-Cloud-WAN_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-Wide-Area-Network-Cloud-WAN_growth.svg">
+  </picture>
+</a>
